@@ -5,9 +5,9 @@ I had the idea for this while exploring options to convert my Atari 2600 paddles
 
 Rather than mess with either an original paddle or breaking apart a perfectly good functioning usb mouse, i thought heck why not just make something that could slip over a normal mouse to add some extra retro gaming features.
 
-Disclaimer:  While initially I thought i'd come up with a pretty original cool idea, once i started scanning the web to see if anyone else had used this idea before, I found few variation on this ie flipping a mouse over an sticking on something 'wheel like' on (there is also a nice hackaday article on someone made a tron controller).
+Disclaimer:  While initially I thought i'd come up with a pretty original cool idea, once i started scanning the web to see if anyone else had used this idea before, I found few variations on the flipping-a-mouse-over-and-sticking-on-something-'wheel like'  (there is also a nice hackaday article on someone made a tron controller).
 
-HOWEVER this one is super quick to make, entirely reversable, and uses parts that most of people should have lying around nearby or easy to get access to.  You could easily adapt it further using high quality parts and make the spinner permanent (possibly even spend hours making a 3d printable something) - but heck, as it stands  this works as a low-fi method for casual paddle/spinner gaming. 
+HOWEVER this one is super quick to make, entirely reversable, and uses parts that most of people should have lying around nearby or easy to get access to.  You could easily adapt it further using high quality parts and make the spinner more permanent (possibly even spend hours making a 3d printable something) - but heck, as it stands this works as a low-fi method for casual paddle/spinner gaming. 
 
 How it looks:
 ![20230408_222543_small](https://user-images.githubusercontent.com/32017349/230721025-d5065ef3-acc2-4d51-a2eb-8433624c85e6.jpg)
