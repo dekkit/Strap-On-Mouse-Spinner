@@ -1,7 +1,7 @@
 # Strap-On-Mouse-Spinner
 A super quick (reversible) method of turning any USB optical mouse into a spinner or paddle for use with your favorite retro gaming emulators and play bat and ball style  games (like Pong, Arkanoid).
 
-I had the idea for this while exploring options to convert my Atari 2600 paddles and C64.   I saw a few examples in the retro community where people were modifiying their original paddles using the parts from an old USB optiical mouse and solderding paddle buttons directly to the pcb.
+I had the idea for this while exploring options to convert my Atari 2600 paddles and C64 ones.   I saw a few examples in the retro community where people were modifiying their original paddles using the parts from an old USB optiical mouse and solderding paddle buttons directly to the pcb.
 
 Rather than mess with either an original paddle or breaking apart a perfectly good functioning usb mouse, i thought heck why not just make something that could slip over a normal mouse to add some extra retro gaming features.
 
