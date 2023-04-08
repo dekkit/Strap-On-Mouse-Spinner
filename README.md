@@ -42,5 +42,5 @@ Play Game:
 - Make sure your favourite game supports mouse
 - Fire up the game
 = Strap on the spinner onto your favourite ergonomic mouse 
-- Turn the mouse up-side-down
+- Turn the mouse up-side-down (gripping it tightly in the palm of your hand!)
 - Have fun! 
