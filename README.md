@@ -14,10 +14,10 @@ How it looks:
 ![20230408_213648_small](https://user-images.githubusercontent.com/32017349/230721029-d873ebb9-949d-4e96-bb7b-e41faafabb73.jpg)
 
 Parts:
-1 x Valcro One-Wrap Reusable Ties / Or any reusable cable tie (any color) = 25mm x 200mm  (this is just enough to get around the mouse)
-1 x USB Mouse
-1 x Container Lid (the one I used is from an plastic milk bottle) =  40mm Diameter 
-1 x Screw (preferably with needle point to make a hole in plastic lid and with screw head that is 'flat') 
+- 1 x Valcro One-Wrap Reusable Ties / Or any reusable cable tie (any color) = 25mm x 200mm  (this is just enough to get around the mouse)
+- 1 x USB Mouse
+- 1 x Container Lid (the one I used is from an plastic milk bottle) =  40mm Diameter 
+- 1 x Screw (preferably with needle point to make a hole in plastic lid and with screw head that is 'flat') 
 
 Tools:
 Screw driver
