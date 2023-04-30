@@ -21,7 +21,7 @@ Parts:
 
 Tools:
 Screw driver
-Ssomethign to make a hole in the lid. 
+Somethign to make a hole in the lid. 
 
 
 Steps to make 
